@@ -1,0 +1,3 @@
+### Sigmoid
+
+![](capture/sigmoid.png)
